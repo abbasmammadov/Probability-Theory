@@ -1,2 +1,3 @@
 # Probability-Theory
-k_th smallest and EM algorithm for normal distributions
+k_th largest finding algorithm and EM algorithm for normal distributions.
+
